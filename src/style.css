@@ -30,7 +30,14 @@ h1 {
   text-transform: uppercase;
   z-index: 101;
 }
-
+.scrollLog {
+  color: #fff;
+  font-size: 1.5rem;
+  max-width: 80vw;
+  text-align: justify;
+  margin: auto;
+  margin-bottom: 50px;
+}
 section {
   height: 100vh;
 }
